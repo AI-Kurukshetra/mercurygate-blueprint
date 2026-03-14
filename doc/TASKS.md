@@ -1,0 +1,22 @@
+# Task Tracker
+
+- [x] 2026-03-14 11:21 IST Build TMS MVP foundation for cloud operations
+- [x] 2026-03-14 11:21 IST Scaffold Next.js 15 App Router project with TypeScript and TailwindCSS
+- [x] 2026-03-14 11:21 IST Add Supabase clients, auth middleware, and typed validation layer
+- [x] 2026-03-14 11:21 IST Add database migration, RLS policies, storage policies, and schema docs
+- [x] 2026-03-14 11:21 IST Implement core pages: login, dashboard, orders, shipments, carriers, tracking, reports, customer portal
+- [x] 2026-03-14 11:21 IST Implement core actions: createOrder, createShipment, assignCarrier, calculateRate, trackShipment, uploadDocument
+- [x] 2026-03-14 11:21 IST Add local setup and demo flow documentation
+- [x] 2026-03-14 11:21 IST Run verification checks and record results
+- [x] 2026-03-14 11:27 IST Add self-service signup page and Supabase Auth signup flow
+- [x] 2026-03-14 11:33 IST Add admin user access management for role and customer assignment
+- [x] 2026-03-14 12:18 IST Configure hosted Supabase roles/users: Pranav admin + demo ops/customer assignments
+- [x] 2026-03-14 12:27 IST Create richer seed dataset and run hosted seeding for demo data visibility
+- [x] 2026-03-14 13:03 IST Implement advanced differentiator module with 14 feature engines under `/advanced` without changing core workflows
+- [x] 2026-03-14 14:28 IST Modernize shared UI system (theme, primitives, shell, auth surfaces) with zero workflow logic changes
+- [x] 2026-03-14 14:30 IST Remove legacy event-specific wording from UI and docs
+- [x] 2026-03-14 14:34 IST Remove previous branded naming from all pages and metadata
+- [x] 2026-03-14 14:38 IST Rebrand product naming to NextGen Transportation Management System (TMS)
+- [x] 2026-03-14 14:41 IST Remove duplicate brand line in sidebar header
+- [x] 2026-03-14 14:44 IST Improve sidebar brand styling with stronger color focus and visual hierarchy
+- [x] 2026-03-14 14:46 IST Adjust NextGen TMS brand palette to a refined amber-cyan gradient
